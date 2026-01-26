@@ -27,6 +27,23 @@ Use os agents em `.claude/agents/` conforme o contexto:
 | `typescript-pro` | Código tipado |
 | `nlp-engineer` | Processamento de linguagem, chatbots IA |
 
+## Skills Instaladas
+
+| Skill | Uso |
+|-------|-----|
+| `skill-creator` | Criar novas skills customizadas para Claude Code |
+
+Scripts disponíveis em `.claude/skills/skill-creator/scripts/`:
+- `init_skill.py <nome> --path <dir>` - Inicializar nova skill
+- `package_skill.py <path>` - Empacotar skill para distribuição
+- `quick_validate.py` - Validar skill
+
+## Commands Instalados
+
+| Comando | Uso |
+|---------|-----|
+| `/create-architecture-documentation` | Gerar documentação de arquitetura (C4, Arc42, ADRs, PlantUML) |
+
 ## MCPs Configurados
 
 Ver `.claude/settings.json`:
