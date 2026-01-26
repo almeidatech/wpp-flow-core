@@ -1,0 +1,68 @@
+{
+  "generated_at": "2026-01-26T23:23:56.237Z",
+  "project_name": "wpp-flow-core",
+  "system": {
+    "os": "Windows",
+    "nodejs_version": "v24.10.0",
+    "node_path": "C:\\Program Files\\nodejs\\node.exe"
+  },
+  "cli_tools": {
+    "git": {
+      "installed": true,
+      "version": "2.49.0"
+    },
+    "gh": {
+      "installed": true,
+      "version": "2.85.0",
+      "authenticated": true
+    },
+    "node": {
+      "installed": true,
+      "version": "v24.10.0"
+    },
+    "npm": {
+      "installed": true,
+      "version": "11.1.0"
+    },
+    "supabase": {
+      "installed": true,
+      "version": "2.20.5",
+      "update_available": "2.72.7"
+    },
+    "railway": {
+      "installed": true,
+      "version": "3.20.0"
+    },
+    "docker": {
+      "installed": true,
+      "version": "28.5.1",
+      "running": false
+    },
+    "pnpm": {
+      "installed": true,
+      "version": "10.20.0"
+    },
+    "bun": {
+      "installed": false
+    }
+  },
+  "repository": {
+    "initialized": true,
+    "url": "git@github.com:almeidatech/wpp-flow-core.git",
+    "branch": "master",
+    "remote": "origin"
+  },
+  "project_structure": {
+    "docs": true,
+    ".aios": true,
+    ".gitignore": true,
+    "package.json": false,
+    "src": false,
+    "tests": false
+  },
+  "validation": {
+    "essential_complete": true,
+    "recommended_complete": true,
+    "ready_for_development": true
+  }
+}
