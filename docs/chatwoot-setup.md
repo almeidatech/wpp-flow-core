@@ -26,7 +26,7 @@ Para configuração manual via Meta Developer Console:
 
 ### Configuração
 
-**Settings > Integrations > Webhooks > Add new webhook**
+**Settings \> Integrations \> Webhooks \> Add new webhook**
 
 ### Eventos Disponíveis
 
