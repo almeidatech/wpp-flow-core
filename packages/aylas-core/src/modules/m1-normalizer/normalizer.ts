@@ -44,7 +44,7 @@ export class MessageNormalizer {
       throw new AylasError(
         ErrorCode.VALIDATION_ERROR,
         'Invalid webhook payload',
-        { event: payload.event }
+        { event: payload?.event }
       );
     }
 

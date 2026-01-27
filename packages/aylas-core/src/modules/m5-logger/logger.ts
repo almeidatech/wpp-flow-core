@@ -103,7 +103,7 @@ export class EventLogger {
     }
 
     const event: EventLog = {
-      id: row.id as number,
+      id: row.id,
       tenant_id: String(row.tenant_id),
       contact_id: row.contact_id as number,
       event_type: String(row.event_type),
